@@ -157,7 +157,7 @@ dependencies:
   - ninja=1.10.2=h06a4308_5
   - ninja-base=1.10.2=hd09550d_5
   - nodejs=6.11.2=h3db8ef7_0
-  - notebook=6.5.4=py39h06a4308_0
+  - notebook
   - notebook-shim=0.2.2=py39h06a4308_0
   - nspr=4.35=h6a678d5_0
   - nss=3.89.1=h6a678d5_0
