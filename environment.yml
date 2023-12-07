@@ -14,7 +14,7 @@ dependencies:
   - asttokens=2.0.5=pyhd3eb1b0_0
   - async_generator=1.10=pyhd3eb1b0_0
   - atk-1.0=2.36.0=ha1a6a79_0
-  - attrs=22.1.0=py39h06a4308_0
+  - attrs
   - babel=2.11.0=py39h06a4308_0
   - backcall=0.2.0=pyhd3eb1b0_0
   - bash=5.0.018=h14c3975_0
@@ -260,7 +260,7 @@ dependencies:
   - ypy-websocket=0.8.2=py39h06a4308_0
   - zeromq=4.3.4=h2531618_0
   - zipp=3.11.0=py39h06a4308_0
-  - zlib=1.2.13=h5eee18b_0
+  - zlib
   - zstandard=0.19.0=py39h5eee18b_0
   - zstd=1.5.5=hc292b87_0
 prefix: /opt/conda
